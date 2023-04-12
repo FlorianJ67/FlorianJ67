@@ -1,4 +1,4 @@
-### Hi there 👋
+### Actuellement en formation chez ElanFormation (DevWeb&DevMobile)
 
 <!--
 **FlorianJ67/FlorianJ67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
